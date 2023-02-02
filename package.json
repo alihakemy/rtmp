@@ -8,8 +8,8 @@
   },
   "keywords": [],
   "author": "",
-    "engines":{
-    "node":"v18.13.0"
+ "engines" : { 
+    "node" : ">=8.0.0" 
   },
   "license": "ISC",
   "dependencies": {
