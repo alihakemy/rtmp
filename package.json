@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "## Run",
   "main": "index.js",
+  "keywords": [],
+  
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
   "author": "",
  "engines" : { 
     "node" : ">=8.0.0" 
